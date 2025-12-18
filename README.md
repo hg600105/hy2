@@ -4,5 +4,5 @@
 ### 一键脚本自定义
 
 ```bash
-bash <(curl -Ls bash <(curl -Ls https://raw.githubusercontent.com/Daelli/hy2/refs/heads/main/hy2.sh)
+bash <(curl -Ls bash <(curl -Ls https://raw.githubusercontent.com/Daelli/Hysteria2/refs/heads/main/hy2.sh)
 ```
